@@ -1,1 +1,2 @@
 NewTestFile-02-18Dec2018
+added extra row to see if the azure git is getting proper history from git.
